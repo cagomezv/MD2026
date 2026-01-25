@@ -1,6 +1,6 @@
-# 📊 Minería de Datos para Física Computacional
+# 📊 Minería de Datos - Línea de Física Computacional (PAF)
 
-## 📌 Descripción del curso
+## 📌 Descripción del curso 
 El curso **Minería de Datos para Física Computacional** introduce los fundamentos teóricos y prácticos del análisis de datos y el aprendizaje automático aplicados a problemas de la física moderna. Está orientado al procesamiento, análisis e interpretación de grandes volúmenes de datos experimentales y simulados, utilizando metodologías científicas rigurosas y herramientas computacionales actuales.
 
 Este espacio académico integra programación, estadística, modelado matemático y técnicas de minería de datos para la formulación, validación e interpretación de modelos físicos en contextos científicos y tecnológicos.
